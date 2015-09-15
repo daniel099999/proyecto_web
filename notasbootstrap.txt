@@ -1,0 +1,1 @@
+http://railscasts.com/episodes/328-twitter-bootstrap-basics?language=es&view=asciicast
